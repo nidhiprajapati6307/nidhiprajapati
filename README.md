@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nidhi Prajapati</h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+App+Developer;Learning+GetX;Building+Awesome+Apps)](https://git.io/typing-svg)
+
+
 <h3 align="center">Flutter Developer 🚀</h3>
 
 <p align="center">
@@ -10,9 +13,9 @@ Passionate Flutter developer building beautiful and high-performance mobile appl
 
 ### 👩‍💻 About Me
 
-- 🌱 Currently learning Flutter & GetX
-- 📱 Building Mobile Applications
-- 🎯 Interested in UI/UX Design
+- 🌱 Currently Working Flutter & GetX
+- 📱 Building Mobile Applications(Web , Android and IOS)
+- 🎯 Interested in Mobile Application
 - 💡 Exploring Firebase & Backend Development
 
 ---
